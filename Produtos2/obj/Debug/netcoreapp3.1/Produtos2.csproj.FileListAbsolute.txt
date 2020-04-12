@@ -1,0 +1,13 @@
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.exe
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.deps.json
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.runtimeconfig.json
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.runtimeconfig.dev.json
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.dll
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\bin\Debug\netcoreapp3.1\Produtos2.pdb
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.csprojAssemblyReference.cache
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.csproj.CoreCompileInputs.cache
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.AssemblyInfoInputs.cache
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.AssemblyInfo.cs
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.dll
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.pdb
+C:\Users\PC Game\Documents\curso c#\Produtos2\Produtos2\obj\Debug\netcoreapp3.1\Produtos2.genruntimeconfig.cache
